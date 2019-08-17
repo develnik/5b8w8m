@@ -1,0 +1,12 @@
+body {
+}
+
+.box {
+}
+
+.box:nth-child(even) {
+}
+
+.wrapper {
+  display: grid;
+}
